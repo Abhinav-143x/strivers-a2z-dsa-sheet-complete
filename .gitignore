@@ -39,10 +39,12 @@ Thumbs.db
 
 # Project specific
 *.html
+!playwright_page.html
 *.json
 !problems_fixed.json
 !categories_fixed.json
 !subcategories_fixed.json
+!problems.json
 
 # Debug files
 debug_*.py
